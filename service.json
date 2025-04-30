@@ -1,8 +1,8 @@
 {
   "endpoints": {
     "payment": {
-      "APIV2": "https://nalicpay.com/payment/api/v1",
-      "APIV3": "https://nalicpay.com/payment/api/v2"
+      "APIV2": "http://95.215.206.120:8443/payment/api/deposit",
+      "APIV3": "http://95.215.206.120:8443/payment/api/withdrawal"
     }
   }
 }
