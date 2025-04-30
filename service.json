@@ -1,0 +1,8 @@
+{
+  "endpoints": {
+    "payment": {
+      "APIV2": "https://nalicpay.com/payment/api/v1",
+      "APIV3": "https://nalicpay.com/payment/apiv2"
+    }
+  }
+}
